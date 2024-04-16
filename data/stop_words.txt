@@ -1,0 +1,10 @@
+nom
+prénom
+date_naissance
+lieux_naissance
+relation
+profession
+état_civil
+employeur
+id
+:
