@@ -6,5 +6,15 @@ relation
 profession
 état_civil
 employeur
+âge
 id
 :
+firstname
+surname
+link
+occupation
+age
+birth_date
+employer
+lob
+civil_status
